@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.notification-container {
+    background: #4e73df;
+    padding: 1.5rem 1.5rem;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+
+.notification-header h4 {
+    text-align: left;
+    font-weight: bold;
+}
+
+.notification-body .btn {
+    color: white;
+}
+
+.notification-body {
+    text-align: justify;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+
+
